@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressTable", "ProgressTable\ProgressTable.csproj", "{7290897C-72CE-472D-A744-F1CA279D77EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITestsForProgressTable", "UITestsForProgressTable\UITestsForProgressTable.csproj", "{EF874739-D7C8-4F60-8CBF-7143BD4AB2BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7290897C-72CE-472D-A744-F1CA279D77EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7290897C-72CE-472D-A744-F1CA279D77EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7290897C-72CE-472D-A744-F1CA279D77EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF874739-D7C8-4F60-8CBF-7143BD4AB2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF874739-D7C8-4F60-8CBF-7143BD4AB2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF874739-D7C8-4F60-8CBF-7143BD4AB2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF874739-D7C8-4F60-8CBF-7143BD4AB2BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
